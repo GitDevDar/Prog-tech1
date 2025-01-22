@@ -1,4 +1,0 @@
-Student
-Egor Ashurkin;1243;programmer;4;4.9
-Teacher
-Alekseev Petr;1243, 1241, 1245;Programming, math
