@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "lab12.h": "c",
+        "stdio.h": "c",
+        "malloc.h": "c",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "new": "cpp"
+    }
+}
